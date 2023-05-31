@@ -1,0 +1,3 @@
+com\example\aws_sample\model\User.class
+com\example\aws_sample\controller\MainController.class
+com\example\aws_sample\AwsSampleApplication.class
